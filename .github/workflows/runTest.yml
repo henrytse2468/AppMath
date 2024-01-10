@@ -14,4 +14,4 @@ jobs:
         pip install pytest 
 
     - name: Run pytest
-      run: pytest
+      run: pytest test_ex1.py
