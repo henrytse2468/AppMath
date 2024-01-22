@@ -1,7 +1,7 @@
 # Ex-2: Computational Derivation and Matrix Multiplication
 
 ## Overview
-In this exercise, you will practice computational derivation and matrix multiplication.
+In this exercise, you will practice computational derivation and matrix multiplication..
 
 ## Objectives
 1. Calculate the derivative of a function at a given point.
